@@ -1,0 +1,1 @@
+from label_anything.models import LabelAnything, LabelAnythingConfig
